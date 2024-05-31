@@ -2,7 +2,7 @@ fastapi
 uvicorn
 sqlalchemy
 pyhumps
-pydantic_settings
+pydantic==1.10
 pytest
 httpx
 coverage
